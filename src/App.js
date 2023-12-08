@@ -1,15 +1,14 @@
 import React from 'react';
+import Header from './features/Header/Header'
 import './App.css';
 
 function App() {
   return (
     <>
-      {/* <Header /> */}
+      <Header />
       <main>
-        {/* <Home /> */}
       </main>
       <aside>
-        {/* <Subreddits /> */}
       </aside>
     </>
   );
